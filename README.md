@@ -25,7 +25,7 @@ Make sure you have Python installed, then run the following to install required 
    pip install -r requirements.txt
    ``` 
 3. **Run the notebook**
-Launch a Jupyter notebook or lab instance and open the notebook file `challenge.ipynb` and start coding!
+Launch a Jupyter notebook or lab instance and open the notebook file [challenge.ipynb](./challenge.ipynb) and start coding!
 
 ## License
 This repository is licensed under the Apache 2.0 License. See the [LICENSE](https://github.com/HuangJunye/ieee-qiskit-transpilation-challenge/blob/main/LICENSE) file for more details.
