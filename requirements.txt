@@ -1,0 +1,6 @@
+qiskit[visualization]>=1.0 # this will install qiskit and visualization required packages
+qiskit-ibm-runtime
+qiskit-aer
+qiskit-ibm-transpiler
+networkx
+colorama
