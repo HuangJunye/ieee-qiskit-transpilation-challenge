@@ -21,9 +21,9 @@ To get started, follow these steps:
 2. **Install dependencies**
 Make sure you have Python installed, then run the following to install required packages in your working environment:
 
-  ```bash
-  pip install -r requirements.txt
-  ``` 
+   ```bash
+   pip install -r requirements.txt
+   ``` 
 3. **Run the notebook**
 Launch a Jupyter notebook or lab instance and open the notebook file `challenge.ipynb` and start coding!
 
